@@ -15,9 +15,11 @@
 * Linux tools
 
 <h2> Warning </h2> 
+
 If you want to change the sql creds to connect to the db with the website just change json config file
 
 <h2>Steps to use : </h2>
+
 * run sudo python3 list_hosts.py to list all your host on your network 
 * run sudo node app.js to run your webserver local with nodejs
 * run sudo python3 arpspoof.py ipvictim #to poisoin the arp cache of the victim 
