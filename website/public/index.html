@@ -1,0 +1,26 @@
+<html>
+    <head>
+       <meta charset="utf-8">
+        <!-- importer le fichier de style -->
+        <link rel="stylesheet" href="./static/style.css" media="screen" type="text/css" />
+    </head>
+    <body>
+        <div id="container">
+            <!-- zone de connexion -->
+            
+            <form action="/login" method="POST" id="form">
+                <h1>Connexion</h1>
+                
+                <label for="username"><b>Nom d'utilisateur</b></label>
+                <input type="text" placeholder="Entrer le nom d'utilisateur" for="username" id="username" name="username" required>
+
+                <label for="pwd"><b>Mot de passe</b></label>
+                <input type="password" for="pwd" id =pwd placeholder="Entrer le mot de passe" name="password" required>
+
+                <input type="submit" id='submit' value='LOGIN'>
+                          
+            </form>
+            
+        </div>
+    </body>
+</html>

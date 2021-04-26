@@ -11,12 +11,11 @@
 If you want to change the sql creds to connect to the db with the website just change json config file
 
 <h2>Steps to use : </h2>
-
 * run sudo python3 list_hosts.py to list all your host on your network 
 * run sudo node app.js to run your webserver local with nodejs
 * run sudo python3 arpspoof.py ipvictim #to poisoin the arp cache of the victim 
 * run sudo python3 dnsspoof.py and edit the dns_hosts variables to set your ip and your domain that you want to spoof 
 
-Wait for your victim to connect on one of specified website in the dns_hosts variable and enjoy ! 
+Wait for your victim to connect on one a website specified in the dns_hosts variable and enjoy ! 
 
 The purpose of this program is only educative i'm not responsible of your way to usage it

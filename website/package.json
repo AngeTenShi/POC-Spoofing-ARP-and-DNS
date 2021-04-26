@@ -1,0 +1,27 @@
+{
+  "name": "spoofer",
+  "version": "1.0.0",
+  "description": "SpooferDNS",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeje720/Spoofer.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "jeje720",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeje720/Spoofer/issues"
+  },
+  "homepage": "https://github.com/jeje720/Spoofer#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}

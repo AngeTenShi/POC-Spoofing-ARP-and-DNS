@@ -1,0 +1,10 @@
+{
+  "console": {
+    "port": 777
+  },
+  "spoofer":
+  {
+    "url": "https://www.google.com/",
+    "port": 80
+  }
+}
