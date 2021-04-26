@@ -7,6 +7,13 @@
 * Python modules : scapy , netfilterqueue, time , argparse
 * Same network that your victim to do the attack
 
+<h2> Used Technologies :</h2>
+
+* Python
+* NodeJS
+* HTML/CSS
+* Linux tools
+
 <h2> Warning </h2> 
 If you want to change the sql creds to connect to the db with the website just change json config file
 
