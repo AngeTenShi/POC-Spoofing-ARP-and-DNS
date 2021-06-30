@@ -27,4 +27,4 @@ If you want to change the sql creds to connect to the db with the website just c
 
 Wait for your victim to connect on one a website specified in the dns_hosts variable and enjoy ! 
 
-The purpose of this program is only educative i'm not responsible of your way to usage it
+The purpose of this program is only educative i'm not responsible of your way to use it
